@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="414dp"
+        android:layout_height="172dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/idRerA"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="415dp"
+        android:layout_height="59dp"
+        android:layout_marginBottom="1dp"
+        android:background="#AA44"
+        android:text="Application Enquête de satisfaction 2025"
+        android:textAlignment="center"
+        android:textColor="#FFF"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageButton
+        android:id="@+id/idRerA"
+        android:layout_width="79dp"
+        android:layout_height="87dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginBottom="500dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toStartOf="@+id/idRerB"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/rera" />
+
+    <ImageButton
+        android:id="@+id/idRerB"
+        android:layout_width="79dp"
+        android:layout_height="87dp"
+        android:layout_marginBottom="500dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toStartOf="@+id/idRerC"
+        app:layout_constraintStart_toEndOf="@+id/idRerA"
+        app:srcCompat="@drawable/rerb" />
+
+    <ImageButton
+        android:id="@+id/idRerE"
+        android:layout_width="79dp"
+        android:layout_height="87dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="500dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/idRerD"
+        app:srcCompat="@drawable/rere" />
+
+    <ImageButton
+        android:id="@+id/idRerD"
+        android:layout_width="79dp"
+        android:layout_height="87dp"
+        android:layout_marginBottom="500dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toStartOf="@+id/idRerE"
+        app:layout_constraintStart_toEndOf="@+id/idRerC"
+        app:srcCompat="@drawable/rerd" />
+
+    <ImageButton
+        android:id="@+id/idRerC"
+        android:layout_width="79dp"
+        android:layout_height="87dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginBottom="500dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toTopOf="@+id/textView"
+        app:layout_constraintEnd_toStartOf="@+id/idRerD"
+        app:layout_constraintStart_toEndOf="@+id/idRerB"
+        app:srcCompat="@drawable/rerc" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
