@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MySNCFLM25</string>
+    <style name="Base.Theme.MySNCFLM25" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MySNCFLM25" parent="Base.Theme.MySNCFLM25"/>
+</resources>

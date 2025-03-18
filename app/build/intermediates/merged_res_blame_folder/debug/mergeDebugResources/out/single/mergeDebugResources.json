@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_rerd.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\rerd.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_smiley2.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\smiley2.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_rerb.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\rerb.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\layout_activity_page2.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\layout\\activity_page2.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_rera.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\rera.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\layout_activity_inscription.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\layout\\activity_inscription.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_smiley1.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\smiley1.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_rerc.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\rerc.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\layout_activity_fin.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\layout\\activity_fin.xml"
+    },
+    {
+        "merged": "com.example.mysncflm25.app-debug-31:/layout_activity_page1.xml.flat",
+        "source": "com.example.mysncflm25.app-main-33:/layout/activity_page1.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_smiley3.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\smiley3.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\layout_activity_page1.xml.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\layout\\activity_page1.xml"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\drawable_rere.png.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\drawable\\rere.png"
+    },
+    {
+        "merged": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benja\\.gradle\\daemon\\8.10.2\\com.example.mysncflm25.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

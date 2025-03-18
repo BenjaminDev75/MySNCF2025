@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Page1">
+
+    <RadioGroup
+        android:id="@+id/idProprete"
+        android:layout_width="333dp"
+        android:layout_height="158dp"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="264dp"
+        android:layout_marginEnd="39dp"
+        android:layout_marginBottom="25dp"
+        app:layout_constraintBottom_toTopOf="@+id/idSuivant"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8">
+
+        <RadioButton
+            android:id="@+id/idProprete1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Très Satisfait" />
+
+        <RadioButton
+            android:id="@+id/idProprete2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Satisfait" />
+
+        <RadioButton
+            android:id="@+id/idProprete3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Peu Satisfait" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="393dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="9dp"
+        android:text="Que pensez-vous de la propreté ?"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/idRegularite" />
+
+    <RadioGroup
+        android:id="@+id/idRegularite"
+        android:layout_width="333dp"
+        android:layout_height="158dp"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="38dp"
+        android:layout_marginEnd="37dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8">
+
+        <RadioButton
+            android:id="@+id/idRegularite1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Très Satisfait" />
+
+        <RadioButton
+            android:id="@+id/idRegularite2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Satisfait" />
+
+        <RadioButton
+            android:id="@+id/idRegularite3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Peu Satisfait" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="415dp"
+        android:layout_height="59dp"
+        android:layout_marginBottom="1dp"
+        android:background="#AA44"
+        android:text="Application Enquête de satisfaction 2025"
+        android:textAlignment="center"
+        android:textColor="#FFF"
+        android:textSize="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="414dp"
+        android:layout_height="172dp"
+        android:layout_marginTop="4dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.333"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="393dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="67dp"
+        android:layout_marginEnd="10dp"
+        android:text="Que pensez-vous de la régularité du trafic ?"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+    <Button
+        android:id="@+id/idSuivant"
+        android:layout_width="394dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="19dp"
+        android:text="Suivant"
+        app:layout_constraintBottom_toTopOf="@+id/textView7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
